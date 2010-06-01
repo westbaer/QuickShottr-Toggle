@@ -1,4 +1,4 @@
-K_NAME = QSSToggle
+LIBRARY_NAME = QSSToggle
 QSSToggle_OBJCC_FILES = Tweak.mm
 QSSToggle_FRAMEWORKS = Foundation
 
