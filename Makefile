@@ -1,7 +1,7 @@
-LIBRARY_NAME = QSSToggle
-QSSToggle_OBJC_FILES = Tweak.m
-QSSToggle_FRAMEWORKS = Foundation
-QSSToggle_INSTALL_PATH = /var/mobile/Library/SBSettings/Toggles/QuickShottr/
+LIBRARY_NAME = Toggle
+Toggle_OBJC_FILES = Tweak.m
+Toggle_FRAMEWORKS = Foundation
+Toggle_INSTALL_PATH = /var/mobile/Library/SBSettings/Toggles/QuickShottr/
 
 FRAMEWORKDIR=$(FW_PROJECT_DIR)/../framework
 
